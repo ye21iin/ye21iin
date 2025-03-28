@@ -11,11 +11,10 @@
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?&style=flat-square&logo=redux&logoColor=white)
 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Styled-components](https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=flat-square&logo=styled-components&logoColor=white)
 
 ![Pytorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=black)
