@@ -4,7 +4,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F706&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Erine+%3AD)
 
----
+
+<br />
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?&style=flat-square&logo=typescript&logoColor=white)
@@ -23,5 +25,20 @@
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=flat-square&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-%234A154B.svg?&style=flat-square&logo=slack&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?&style=flat-square&logo=tableau&logoColor=white)
+
+
+<br />
+
+---
+
+<div style="display: flex; align-items: center;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ye21iin&show_icons=true&theme=transparent" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ye21iin&layout=compact&hide_rank=true" height="195">
+
+</div>
+
+
+
 
 </div>
