@@ -7,6 +7,11 @@
 
 <br />
 
+[![gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kathykr120@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kathykr120)
+[![wakatime](https://wakatime.com/badge/user/2790b226-a980-44f2-95da-06005cdc9050.svg)](https://wakatime.com/@2790b226-a980-44f2-95da-06005cdc9050)
+
+<br />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?&style=flat-square&logo=typescript&logoColor=white)
