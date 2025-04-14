@@ -38,8 +38,8 @@
 
 <div style="display: flex; align-items: center;">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ye21iin&layout=compact&hide_rank=true&theme=transparent" height="195">
-  <img src="https://github-readme-stats.vercel.app/api?username=ye21iin&show_icons=true&theme=transparent" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ye21iin&layout=compact&hide_rank=true&theme=react" height="195">
+  <img src="https://github-readme-stats.vercel.app/api?username=ye21iin&show_icons=true&theme=react" height="195">
 
 </div>
 
