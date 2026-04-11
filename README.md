@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=yelin's%20Github&textBg=false&fontColor=f0f0f0)
+![](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Erine's%20Github&textBg=false&fontColor=f0f0f0)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F706&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Erine+%3AD;Always+open+to+collab+%26+learn!)
 
